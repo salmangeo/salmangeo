@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salman Khan, micropalaentologist by profession
+- 👋 Hi, I’m Salman Khan, researcher in Geosceintist by profession
 - 👀 I’m interested in Geoinformatics
 - 🌱 I’m currently learning writing Scripts in R and Python to develop best API and Tool for geoscientific community
 - 💞️ I’m looking to collaborate on any platform where I can establish and explore more AI tool for Sedimentology and Palaentology 
